@@ -2,7 +2,7 @@
 
 This free module for Prestashop makes POST request after order status changed to your API URL with order data
 
-![Order Status update module for PrestaShop - module settings](https://tobiksoft.com/138-home_default/order-status-post-request-module-for-prestashop.jpg)
+![Order Status update module for PrestaShop - module settings](https://tobiksoft.com/138-large_default/order-status-post-request-module-for-prestashop.jpg)
 
 ## Main Features
 * makes POST (curl) request after order status changed to your API URL with order data
